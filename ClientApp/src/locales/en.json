@@ -1,0 +1,97 @@
+{
+    "info": {
+        "code": "en",
+        "lang": "English"
+    },
+
+    "nav": {
+        "title": "BBQ Planner",
+        "back": "Back",
+        "logout": "Logout"
+    },
+
+    "signin": {
+        "email": "Email",
+        "email-info": "Type your email",
+        "password": "Password",
+        "password-info": "Type your password",
+        "enter": "Login",
+        "no-account": "I don't have an account",
+        "login-again": "You need to login again.",
+
+        "error": {
+            "email-empty": "Type the user email.",
+            "no-account": "There's no account with given email.",
+            "password-empty": "Type your password.",
+            "invalid-password": "Invalid password.",
+            "no-user": "No user exists with given e-mail.",
+            "empty-credentials": "E-mail or password empty.",
+            "generic": "It was not possible to enter."
+        }
+    },
+
+    "signup": {
+        "name": "Name",
+        "name-info": "Type your username",
+        "enter": "Register",
+        "account": "I already have an account",
+        
+        "error": {
+            "name-empty": "Type your username.",
+            "email-empty": "Type your e-mail.",
+            "account": "E-mail already in use.",
+            "password-empty": "Type your password.",
+            "invalid-password": "Invalid password (Mínimum of 6 characters, with at least one letter, one number, and one symbol).",
+            "invalid-email": "Invalid e-mail.",
+            "already-in-use": "There's already an user with this e-mail.",
+            "generic": "It was not possible to register."
+        }
+    },
+
+    "home": {
+        "add": "Add BBQ",
+        "no-reason": "No reason"
+    },
+
+    "detail": {
+        "new-title": "New BBQ",
+        "edit-title": "Editing the BBQ",
+        "date": "Date",
+        "date-info": "Select a date",
+        "name": "Name",
+        "name-info": "Name of the BBQ",
+        "suggested": "Suggested price",
+        "suggested2": "Suggested price (with drink)",
+        "observation": "Observation",
+        "observation-info": "Observation of the BBQ",
+
+        "list": {
+            "title": "List of participants",
+            "paid": "Paid?",
+            "participant": "Participant",
+            "observation": "Observation",
+            "observation-info": "Observation",
+            "contribution": "Contribution",
+            "without-drink": "Without drink",
+            "with-drink": "With drink",
+            "none": "Empty",
+            "yes": "Yes",
+            "no-result": "No result for",
+            "add": "Add"
+        },
+
+        "remove": "Remove",
+        "edit": "Edit",
+        "save": "Save",
+        "cancel": "Cancel"
+    },
+
+    "not-found": {
+        "title": "Page not found...",
+        "back": "Return to the homepage"
+    },
+
+    "footer": {
+        "language": "Language"
+    }
+}

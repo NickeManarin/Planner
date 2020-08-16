@@ -1,0 +1,101 @@
+{
+    "info": {
+        "code": "pt",
+        "lang": "Português"
+      },
+
+    "nav": {
+        "title": "Agenda de Churras",
+        "back": "Voltar",
+        "logout": "Sair",
+
+        "error": {
+            "logout": "Erro ao tentar sair."
+        }
+    },
+
+    "signin": {
+        "email": "E-mail",
+        "email-info": "E-mail do usuário",
+        "password": "Senha",
+        "password-info": "Senha do usuário",
+        "enter": "Entrar",
+        "no-account": "Não tenho uma conta",
+        "login-again": "É necessário fazer o login",
+
+        "error": {
+            "email-empty": "Digite o e-mail do usuário.",
+            "no-account": "Não existe um usuário com este e-mail.",
+            "password-empty": "Digite a senha do usuário.",
+            "invalid-password": "Senha inválida.",
+            "no-user": "Nenhum usuário existe com esse e-mail.",
+            "empty-credentials": "E-mail e/ou senha não preenchidos.",
+            "generic": "Não foi possível entrar."
+        }
+    },
+
+    "signup": {
+        "name": "Nome",
+        "name-info": "Nome do usuário",
+        "enter": "Fazer cadastro",
+        "account": "Já tenho uma conta",
+        
+        "error": {
+            "name-empty": "Digite o nome do usuário.",
+            "email-empty": "Digite o e-mail do usuário.",
+            "account": "Já existe um usuário com este e-mail.",
+            "password-empty": "Digite a senha do usuário.",
+            "invalid-password": "Senha inválida (Mínimo de 6 caracteres com no mínimo uma letra, um número e um símbolo).",
+            "invalid-email": "E-mail inválido.",
+            "already-in-use": "Já existe um usuário com este e-mail.",
+            "generic": "Não foi possível fazer o cadastro."
+        }
+    },
+
+    "home": {
+        "add": "Adicionar Churras",
+        "no-reason": "Sem motivo"
+    },
+
+    "detail": {
+        "new-title": "Novo churras",
+        "edit-title": "Editando churras",
+        "date": "Data",
+        "date-info": "Selecione uma data",
+        "name": "Nome",
+        "name-info": "Nome do churras",
+        "suggested": "Valor sugerido",
+        "suggested2": "Valor sugerido (com bebida)",
+        "observation": "Observação",
+        "observation-info": "Observação do churras",
+
+        "list": {
+            "title": "Lista de participantes",
+            "paid": "Pagou?",
+            "participant": "Participante",
+            "observation": "Observação",
+            "observation-info": "Observação do participante",
+            "contribution": "Contribuição",
+            "without-drink": "Sem bebida",
+            "with-drink": "Com bebida",
+            "none": "Nenhum participante.",
+            "yes": "Sim",
+            "no-result": "Nenhum resultado para",
+            "add": "Adicionar"
+        },
+
+        "remove": "Remover",
+        "edit": "Editar",
+        "save": "Salvar",
+        "cancel": "Cancelar"
+    },
+
+    "not-found": {
+        "title": "Página não encontrada...",
+        "back": "Volte para a página principal"
+    },
+
+    "footer": {
+        "language": "Idioma"
+    }
+}
